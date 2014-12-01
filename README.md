@@ -3,9 +3,8 @@ Processing_rhythmGame
 
 Arduinoからの信号を受け取ってあそぶ音ゲー。Processing単体でも動きます。
 
-###曲の追加・削除
-=====================
-/score/score_list.csvを編集します。コロン区切り。
+##曲の追加・削除
+`/score/score_list.csv`を編集します。コロン区切り。
 
 以下の例のような順序でcsvを書きます。
 
