@@ -2,6 +2,8 @@ Processing_rhythmGame
 =====================
 
 Arduinoからの信号を受け取ってあそぶ音ゲー。Processing単体でも動きます。
+![001](/screenshots/001.png)
+![002](/screenshots/002.png)
 
 ##曲の追加・削除
 `/score/score_list.csv`を編集します。コロン区切り。
